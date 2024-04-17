@@ -1,5 +1,3 @@
 import json
-
-print('hello world')
-
-print('after my first clone, commit, and push')
+#update by Rance Aaron
+print('This is a demo to demostrate Github process')
