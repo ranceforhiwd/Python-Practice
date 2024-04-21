@@ -2,4 +2,4 @@ import json
 
 print('hello world')
 
-print('after my first clone, commit, and push')
+print("We are merging all the branches and removing them")
